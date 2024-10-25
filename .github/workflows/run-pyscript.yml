@@ -17,4 +17,4 @@ jobs:
         python-version: '3.11.9'  
 
     - name: Run Python Script
-      run: python script.py
+      run: python git.py
